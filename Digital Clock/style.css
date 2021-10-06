@@ -14,7 +14,7 @@
     }
 
     .datetime {
-      height: 180px;
+      height: 240px;
       width: 380px;
       position: relative;
       background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
@@ -33,7 +33,7 @@
 
     .datetime .display {
       z-index: 999;
-      height: 160px;
+      height: 220px;
       width: 360px;
       background: #1b1b1b;
       border-radius: 6px;
